@@ -1,0 +1,32 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.card{
+    justify-content: center;
+    align-items: center;
+    justify-content: end;
+}
+.card-1{
+    position: absolute;
+    right: 75%;
+    top: 20%;
+}
+.card-2{
+    position: absolute;
+    right: 55%;
+    top: 20%;
+}
+.card-3{
+    position: absolute;
+    right: 35%;
+    top: 20%;
+}
+.card-4{
+    position: absolute;
+    right: 15%;
+    top: 20%;
+}
