@@ -1,5 +1,5 @@
-algoritmo "semnome"
-// Função : Exibir a idade total em dias
+algoritmo "Atividade 7 da apostila de LP"
+// Função : Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade  dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
 // Autor :
 // Data : 07/03/2023
 // Seção de Declarações 

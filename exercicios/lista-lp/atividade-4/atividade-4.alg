@@ -1,6 +1,6 @@
 algoritmo "Atividade 4) da Apostila LP"
-// Função :
-// Autor :
+// Função : Reescreva as instruções abaixo com o mínimo de parênteses possível, mas sem alterar o resultado
+// Autor : Matheus Souza Parreiras
 // Data : 08/03/2023
 // Seção de Declarações 
 var

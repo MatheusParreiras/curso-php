@@ -1,6 +1,6 @@
-algoritmo "semnome"
-// Função :
-// Autor :
+algoritmo "Atividade 13 da apostila de LP"
+// Função : Faça um algoritmo que leia três notas de um aluno, calcule e escreva a média final deste aluno.  Considerar que a média é ponderada e que o peso das notas é 2, 3 e 5
+// Autor : Matheus Souza Parreiras
 // Data : 07/03/2023
 // Seção de Declarações 
 var

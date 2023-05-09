@@ -1,6 +1,6 @@
-algoritmo "semnome"
-// Função :
-// Autor :
+algoritmo "Atividade 9 da apostila de LP"
+// Função : Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste.  Calcular e escrever o valor do novo salário.
+// Autor : Matheus Souza Parreiras
 // Data : 07/03/2023
 // Seção de Declarações 
 var

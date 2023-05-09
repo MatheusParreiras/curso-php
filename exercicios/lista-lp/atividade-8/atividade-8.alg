@@ -1,6 +1,7 @@
 algoritmo "semnome"
-// Função : Exibir a idade total em dias
-// Autor :
+// Função : Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos  brancos, nulos e válidos.
+// Calcular e escrever o percentual que cada um representa em relação ao total  de eleitores.
+// Autor : Matheus Souza Parreiras
 // Data : 07/03/2023
 // Seção de Declarações 
 var

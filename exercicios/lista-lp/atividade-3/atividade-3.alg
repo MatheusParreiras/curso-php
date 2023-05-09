@@ -1,6 +1,6 @@
-algoritmo "Atividade 2b) da Apostila LP"
-// Função :
-// Autor :
+algoritmo "Atividade 3 da Apostila LP"
+// Função : Os pares de instruções abaixo produzem o mesmo resultado?
+// Autor : Matheus Souza Parreiras
 // Data : 08/03/2023
 // Seção de Declarações 
 var

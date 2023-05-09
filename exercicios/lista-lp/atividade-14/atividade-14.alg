@@ -1,6 +1,6 @@
-algoritmo "Atividade 4) da Apostila LP"
-// Função :
-// Autor :
+algoritmo "Atividade 14 da apostila de LP"
+// Função : Ler um valor e escrever a mensagem É MAIOR QUE 10! se o valor lido for maior que 10, caso  contrário escrever NÃO É MAIOR QUE 10!
+// Autor : Matheus Souza Parreiras
 // Data : 08/03/2023
 // Seção de Declarações 
 var

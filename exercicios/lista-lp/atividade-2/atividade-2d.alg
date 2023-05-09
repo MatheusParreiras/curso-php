@@ -1,6 +1,6 @@
 algoritmo "Atividade 2d) da Apostila LP"
-// Função :
-// Autor :
+// Função : Analise os algoritmos abaixo e diga o que será impresso na tela ao serem executados - D)
+// Autor : Matheus Souza Parreiras
 // Data : 08/03/2023
 // Seção de Declarações 
 var

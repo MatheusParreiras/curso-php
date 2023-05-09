@@ -1,6 +1,6 @@
-algoritmo "semnome"
-// Função : Algoritmo que mostrar o número antecessor
-// Autor :
+algoritmo "Atividade 5 da apostila de lp"
+// Função : Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
+// Autor : Matheus Souza Parreiras
 // Data : 07/03/2023
 // Seção de Declarações 
 var

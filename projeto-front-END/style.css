@@ -1,0 +1,38 @@
+
+body{
+    background-image: url("img/violet2.jpg");
+    font-family: 'Caveat', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+}
+header{
+    background: rgb(63,251,178);
+    background: radial-gradient(circle, rgba(63,251,178,1) 0%, rgba(171,70,252,1) 100%);
+}
+.navbar{
+    border: solid rgb(0, 0, 0) 1px;
+    height: 170px;
+    display: flex;
+}
+.logo{
+    padding-bottom: 20px;
+}
+.buttons{
+padding-bottom: 200px;
+}
+.buttons a:hover{
+    color: aliceblue;
+}
+.carousel{
+    height: 100px;  
+}
+footer{
+    align-items: flex-end;
+}
+.text{
+    text-align: center;
+    padding-top: 20px;
+    color: greenyellow;
+}
+h2{
+    padding-top: 20px;
+}
